@@ -21,19 +21,19 @@ sudo apt update
 sudo apt install python3.6
 ```
 
--Upgrade pip
+- Upgrade pip
 
 ```bash
 python3 -m pip install --user --upgrade pip
 ```
 
--virtualenv
+- virtualenv
 
 ```bash
 python3 -m pip install --user virtualenv
 ```
 
--Install and set up Git
+- Install and set up Git
 ```bash
 sudo apt-get install git
 git config --global user.name "<your-username>"
