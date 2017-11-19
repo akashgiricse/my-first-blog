@@ -3,6 +3,9 @@
 # Click [here](http://akashgiricse.pythonanywhere.com/) to visit my blog site. <br />
 This site will be disabled on Sunday 18 February 2018.
 
+If you want to run this project at your own pc,<br />
+here are the required stuff:
+
 ### Required dependencies:
 
 - Python 3.6.x
@@ -10,7 +13,7 @@ This site will be disabled on Sunday 18 February 2018.
 - Linux Mint / Ubuntu
 
 
-### 1.Pre required installation:
+### 1. Pre required installation:
 Open you terminal and type for:
 
 - Python 3.6
