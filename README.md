@@ -36,6 +36,10 @@ python3 -m pip install --user --upgrade pip
 python3 -m pip install --user virtualenv
 ```
 
+- Django (in your project directory)
+```bash
+pip install django~=1.11.0
+```
 - Install and set up Git
 ```bash
 sudo apt-get install git
